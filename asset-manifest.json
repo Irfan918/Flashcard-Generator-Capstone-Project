@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Flashcard-Generator-Capstone-Project/static/css/main.b011b67c.css",
+    "main.js": "/Flashcard-Generator-Capstone-Project/static/js/main.ca37d5ae.js",
+    "static/js/787.5ee9dda9.chunk.js": "/Flashcard-Generator-Capstone-Project/static/js/787.5ee9dda9.chunk.js",
+    "index.html": "/Flashcard-Generator-Capstone-Project/index.html",
+    "main.b011b67c.css.map": "/Flashcard-Generator-Capstone-Project/static/css/main.b011b67c.css.map",
+    "main.ca37d5ae.js.map": "/Flashcard-Generator-Capstone-Project/static/js/main.ca37d5ae.js.map",
+    "787.5ee9dda9.chunk.js.map": "/Flashcard-Generator-Capstone-Project/static/js/787.5ee9dda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b011b67c.css",
+    "static/js/main.ca37d5ae.js"
+  ]
+}
